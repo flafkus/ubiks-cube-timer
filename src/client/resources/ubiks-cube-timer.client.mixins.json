@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "flafkus.ubikscubetimer.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ExampleClientMixin",
+		"ChatMessageMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
