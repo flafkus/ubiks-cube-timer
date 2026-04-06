@@ -1,4 +1,4 @@
-# note: skyhanni added a similar feature, no point updating
+## note: skyhanni added a similar feature, no point updating the mod
 
 # Ubik's Cube Timer
 A simple timer for the Ubik's Cube in Hypixel Skyblock, great for grinding Motes in the Rift.
